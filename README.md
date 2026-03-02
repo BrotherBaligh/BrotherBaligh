@@ -14,5 +14,5 @@ I'm a 2nd-semester BSc Computer Science student based in Lahore, Pakistan. I hav
 * **Tools:** Git, GitHub, Visual Studio 2026.
 
 ### 📫 Let's Connect:
-* **LinkedIn:** 
+* **LinkedIn:** https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnmDGzVL4REOWO4s7qOFzoQ%3D%3D
 * **Email:** baligh.ur.rehman.amir@gmail.com
